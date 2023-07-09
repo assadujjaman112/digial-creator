@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid black;
+    padding: 5px;
+    
+}
+.caption{
+    padding: 7px;
+    color: blue;
+}
+.round2,.final{
+    font-weight: 600;
+}
